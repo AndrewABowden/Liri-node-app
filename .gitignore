@@ -1,0 +1,5 @@
+ignore .env
+ignore keys.js
+node_modules/
+
+.DS_Store
